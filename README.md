@@ -1,3 +1,19 @@
+# Framework Battle Royale!
+
+Probando Angular, Next, Nuxt, SvelteKit, y Qwik.
+
+# Resultados Angular 16 en máquina local, en incógnito, con Chrome Profiler
+
+- 1ms Loading
+- 69ms Scripting
+- 8ms Rendering
+- 1ms Painting
+- 14ms System
+- 5003ms Idle
+- 5096ms Total
+
+# Idea de [Gentleman Programming](https://github.com/Gentleman-Programming) - [Video](https://www.youtube.com/watch?v=dFRfQ7NV-1Y)
+
 # FrameworkBattleRoyaleAngular16
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
