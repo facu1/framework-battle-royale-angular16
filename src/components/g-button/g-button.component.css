@@ -1,5 +1,6 @@
 button {
-    padding: 0.5rem 1rem;
-    background-color: var(--secondary);
-    color: var(--text-dark);
+  width: 100%;
+  padding: 0.5rem 1rem;
+  background-color: var(--secondary);
+  color: var(--text-dark);
 }
