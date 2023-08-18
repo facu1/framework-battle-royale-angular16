@@ -12,6 +12,13 @@ Probando Angular, Next, Nuxt, SvelteKit, y Qwik.
 - 5003ms Idle
 - 5096ms Total
 
+# Resultados Lighthouse report, mode: Navigation, Device: Mobile
+
+- 94 Performance
+- 100 Accessibility
+- 100 Best Practices
+- 100 SEO
+
 # Idea de [Gentleman Programming](https://github.com/Gentleman-Programming) - [Video](https://www.youtube.com/watch?v=dFRfQ7NV-1Y)
 
 # FrameworkBattleRoyaleAngular16
